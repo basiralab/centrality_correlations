@@ -1,5 +1,5 @@
 # CENTRALITY MEASURES CORRELATION ANALYSIS
-This has been made as a homework of the ITU - Graph Theory course (https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ). This repository provides an experimental analysis script for following paper:
+This has been made as a homework of the ITU - Graph Theory course (https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ). This repository provides an experimental analysis script for the following paper:
 
 ![fig1](correlations.png)
 
@@ -10,7 +10,7 @@ This has been made as a homework of the ITU - Graph Theory course (https://www.y
 
 ## Running the Analysis
 
-You can run the analysis.ipynb notebook file to execute full analysis that the paper contains.
+You can run the analysis.ipynb notebook file to execute the experiments that the paper contains.
 
 # Please cite the original paper when using the content:
 
